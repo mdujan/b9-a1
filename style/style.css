@@ -167,24 +167,28 @@ font-weight: 700;
     position: absolute;
     height: 100%;
     width:100%;
-   background-color: rgba(18, 4, 51, 0.476);
+   background-color: rgba(13, 1, 39, 0.495);
  top: 0;
  left:0;  
 }
 .group-side{ 
         position: absolute;
-            height: 100%;
-            width:100%;
+        filter:opacity(0.8);
+            height: 75%;
+            width:70%;
             top: 0;
             right:100px; 
             display: flex;
             justify-content: flex-end;
+            padding-top: 50px;
+            
 
 
 }
 
 
 .group-image{
+    filter: opacity(0.9);
     display: flex;
     margin: 40px 40px 20px 0;
     /*  */
