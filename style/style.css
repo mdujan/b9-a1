@@ -419,10 +419,11 @@ display:flex;
 justify-content:space-between;
 margin-left: 120px;
 margin-right: 120px;
-padding-left: 100px;
+padding-left: 136px;
 }
 hr{ border-color: rgba(64, 64, 68, 0.553);
     width: 900px;
-   margin-top: 20px;
+   margin-top: 15px;
      border-width: 70%;
+     margin-bottom: 23px;
 }
